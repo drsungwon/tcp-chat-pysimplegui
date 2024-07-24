@@ -1,4 +1,4 @@
-<h1>TCP Chatting Program - Fullstack Service Networking Season.2</h1>	
+<h1>Chatting Program - Fullstack Service Networking Season.2</h1>	
 
 Server : Python
 
