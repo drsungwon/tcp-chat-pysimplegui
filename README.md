@@ -6,7 +6,7 @@ Client : Python + PySimpleGUI
 
 Networking : TCP
 
-Packaging : Poetry
+Packaging : Poetry (추가 패키지: PySimpleGUI)
 
 <br />
 <br />
