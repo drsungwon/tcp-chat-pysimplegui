@@ -1,15 +1,19 @@
 <h1>Fullstack Service Networking - Season 2</h1>	
 
 Server : Python
+
 Client : Python + PySimpleGUI
+
 Networking : TCP
+
 Packaging : Poetry
+
 <br />
 <br />
 
 <h2>실행 방법</h2>	
 
-PySimpleGUI 사이트에 등록후, pysimplegui 실행을 위한 key 값을 발급받음
+PySimpleGUI 사이트에 등록후, pysimplegui 실행을 위한 key 값을 발급받음<br />
 ( https://www.pysimplegui.com/ )
 
 프로젝트를 다운로드 함
@@ -48,9 +52,9 @@ Client #1과 Client #2의 EXIT 버튼을 클릭하여, 채팅을 종료함
 
 Poetry 실행을 중지함<br />
 > exit
-<br />
-<br />
 
+<br />
+<br />
 
 <h2>실행 화면</h2>	
 
