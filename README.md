@@ -36,10 +36,9 @@ Poetry 실행을 중지함<br />
 
 <h2>실행 화면</h2>	
 
-![Chatting Client #1](/screen/client-1.png)
-<img src="/screen/client-1.png" alt="drawing" width="200"/>
+<img src="/screen/client-1.png" alt="drawing" width="1000"/>
 
+<img src="/screen/client-2.png" alt="drawing" width="1000"/>
 
-![Chatting Client #2](/screen/client-2.png)
+<img src="/screen/server.png" alt="drawing" width="1000"/>
 
-![Chatting Server](/screen/server.png)
