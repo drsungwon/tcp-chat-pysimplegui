@@ -2,7 +2,7 @@
 
 Server : Python
 
-Client : Python + PySimpleGUI
+Client : GUI Desktop Application (Python + PySimpleGUI)
 
 Networking : TCP
 
