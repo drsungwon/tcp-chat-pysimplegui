@@ -1,6 +1,6 @@
 프로젝트를 다운로드 함
 
-폴더안에서 poetry shell를 실행함
+폴더안에서 poetry shell를 실행함\n
 poetry shell
 
 폴더안에서 필요한 패키지를 설치함
