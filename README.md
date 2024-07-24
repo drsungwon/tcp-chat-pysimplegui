@@ -36,7 +36,7 @@ Poetry 실행을 중지함<br />
 
 <h2>실행 화면</h2>	
 
-<img src="/screen/client-1.png" alt="drawing" width="1000"/>
+<img src="/screen/client-1.png" alt="drawing" width="900"/>
 
 <img src="/screen/client-2.png" alt="drawing" width="1000"/>
 
