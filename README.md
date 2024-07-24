@@ -1,9 +1,11 @@
-<h3>Fullstack Service Networking - Season 2</h3>	
+<h1>Fullstack Service Networking - Season 2</h1>	
 
 Server : Python
 Client : Python + PySimpleGUI
 Networking : TCP
 Packaging : Poetry
+<br />
+<br />
 
 <h2>실행 방법</h2>	
 
@@ -46,6 +48,8 @@ Client #1과 Client #2의 EXIT 버튼을 클릭하여, 채팅을 종료함
 
 Poetry 실행을 중지함<br />
 > exit
+<br />
+<br />
 
 
 <h2>실행 화면</h2>	
