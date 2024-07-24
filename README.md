@@ -33,3 +33,11 @@ Client #1과 Client #2의 EXIT 버튼을 클릭하여, 채팅을 종료함
 
 Poetry 실행을 중지함<br />
 > exit
+
+<h2>실행 화면</h2>	
+
+![Chatting Client #1](/screen/client-1.png)
+
+![Chatting Client #2](/screen/client-2.png)
+
+![Chatting Server](/screen/server.png)
