@@ -1,4 +1,14 @@
+<h3>Fullstack Service Networking - Season 2</h3>	
+
+Server : Python
+Client : Python + PySimpleGUI
+Networking : TCP
+Packaging : Poetry
+
 <h2>실행 방법</h2>	
+
+PySimpleGUI 사이트에 등록후, pysimplegui 실행을 위한 key 값을 발급받음
+( https://www.pysimplegui.com/ )
 
 프로젝트를 다운로드 함
 
@@ -20,6 +30,9 @@ src/server/server.py를 실행하여 채팅 서버를 실행함<br />
 Client #1의 Chatting ID에 사용자 식별자(ID)를 입력하고,<br />
 Client #1의 CONNECT 버튼을 클릭해서 채팅 서버에 접속함
 
+PySimpleGUI 실행을 위한 key 값을 입력하라고 하면,<br />
+앞서 발급 받은 key 값을 입력함
+
 Client #2의 Chatting ID에 사용자 식별자(ID)를 입력하고,<br />
 Client #2의 CONNECT 버튼을 클릭해서 채팅 서버에 접속함
 
@@ -33,6 +46,7 @@ Client #1과 Client #2의 EXIT 버튼을 클릭하여, 채팅을 종료함
 
 Poetry 실행을 중지함<br />
 > exit
+
 
 <h2>실행 화면</h2>	
 
